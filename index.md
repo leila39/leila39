@@ -2,18 +2,18 @@
 
 ---
 
-### Category Name 1 
+### Creative Works
 
-[Project 1 Title](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
----
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Ripped Effect](/sample_page)
+<img src="images/66618117_DATEBOOK_popquiz0505-700x500.png?raw=true"/>
 
 ---
-[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Double Exposure](/pdf/sample_presentation.pdf)
+<img src="images/lana-del-rey-attends-the-60th-annual-grammy-awards-at-madison-square-garden-on-january-28-2018-in-new-york-city-photo-by-dimitrios-kambouris_getty-images-for-naras-square.png?raw=true"/>
+
+---
+[Galaxy Cat](http://example.com/)
+<img src="images/galaxy cat.jpg?raw=true"/>
 
 ---
 
