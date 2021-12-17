@@ -19,11 +19,12 @@
 
 ### Category Name 2
 
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
+- [Earth Day](http://example.com/)
+- <img src="images/Untitled.jpg?raw=true"/> 
+- [Cool Retro Collage](http://example.com/)
+- <img src="images/retro -_-.jpg?raw=true"/>
+- [3-D Pop Out effect](http://example.com/)
+- <img src="images/3-D.jpg?raw=true"/>
 
 ---
 
